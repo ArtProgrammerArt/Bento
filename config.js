@@ -147,7 +147,7 @@ const CONFIG = {
 					link: 'https://www.gosuslugi.ru/r/komi',
 				},
 				{
-					name: 'ЛК налогоплательщика',
+					name: 'Налоги',
 					link: 'https://lkfl2.nalog.ru/lkfl',
 				},
 				{
