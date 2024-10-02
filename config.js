@@ -53,7 +53,7 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'VK',
 			icon: 'user-round',
 			link: 'https://vk.com/im',
 		},
@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Кампус',
-					link: 'https://campus.syktsu.ru',
+					name: 'Интеграция',
+					link: 'https://topacademy.e-board.online/',
 				},
 				{
 					name: 'Госуслуги',
