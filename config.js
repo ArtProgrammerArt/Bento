@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Интеграция',
-					link: 'https://topacademy.e-board.online/',
+					name: 'VS wiki',
+					link: 'https://wiki.vintagestory.at/Main_Page/ru',
 				},
 				{
 					name: 'Госуслуги',
