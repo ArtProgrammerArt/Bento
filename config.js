@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://chat.deepseek.com/',
 				},
 				{
-					name: 'Госуслуги',
-					link: 'https://www.gosuslugi.ru/r/komi',
+					name: 'Музыка',
+					link: 'https://music.yandex.ru/',
 				},
 			],
 		},
