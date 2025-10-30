@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://wiki.vintagestory.at/Main_Page/ru',
 				},
 				{
+					name: 'Перевод',
+					link: 'https://translate.yandex.ru',
+				},
+				{
+					name: 'DeepSeek',
+					link: 'https://chat.deepseek.com/',
+				},
+				{
 					name: 'Госуслуги',
 					link: 'https://www.gosuslugi.ru/r/komi',
-				},
-				{
-					name: 'Налоги',
-					link: 'https://lkfl2.nalog.ru/lkfl',
-				},
-				{
-					name: 'Онлайн-банк',
-					link: 'https://online.raiffeisen.ru/login/main',
 				},
 			],
 		},
